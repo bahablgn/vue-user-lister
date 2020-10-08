@@ -47,7 +47,7 @@
     "last 2 versions",
     "not dead"
   ],
-  "prettier":{        
+  "prettier": {
     "semi": false,
     "singleQuote": true
   }
