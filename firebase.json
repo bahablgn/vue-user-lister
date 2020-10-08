@@ -1,6 +1,6 @@
 {
-  "hosting": {    
-    "site": "vue-drum-machine",    
+  "hosting": {
+    "site": "vue-user-lister",
     "public": "dist",
     "ignore": [
       "firebase.json",
